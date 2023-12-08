@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291057168764",
+    "project_id": "musicsessions-221c9",
+    "storage_bucket": "musicsessions-221c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291057168764:android:d37c11169a9d727b6db4f9",
+        "android_client_info": {
+          "package_name": "com.uc.musicsessions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvfKrbO9Xa3BbChmZa0HpeP6qPlyi9Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
